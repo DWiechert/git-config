@@ -1,0 +1,7 @@
+[user]
+	name = dwiechert
+	email = dan.wiechert@gmail.com
+[core]
+	excludesfile = C:\\Users\\Dan\\.gitignore
+	autocrlf = true
+	fileMode = false

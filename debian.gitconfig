@@ -3,5 +3,5 @@
 	email = dan.wiechert@gmail.com
 [core]
 	excludesfile = ~/.gitignore
-	autocrlf = true
+	autocrlf = false
 	fileMode = false
